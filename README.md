@@ -1,6 +1,10 @@
 # DAW2 — Proyectos 2025-26
 Instrucciones generales para los proyectos de DAW.
 
+Este readme se puede consultar en https://aralvarez.github.io/daw2-proyectos-2526/
+
+Este repositorio está en https://github.com/aralvarez/daw2-proyectos-2526
+
 ## Paso 1 - Crear repositorio en GitHub para el proyecto
 Crea tu repositorio.
 * Haz clic en el + de la esquina superior derecha → New repository
@@ -51,10 +55,4 @@ Puedes darle el texto: Repositorio creado.
 * Buscar mi usuario de GitHub (aralvarez)
 * Seleccionar rol Read
 * Se enviará un email de invitación
-----
-Al terminar estos pasos tendrás algo así:
-```
-proyecto/
-├── README.md
-├── docu/
-└── src/
+
